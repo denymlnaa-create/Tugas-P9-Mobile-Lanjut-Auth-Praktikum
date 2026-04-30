@@ -18,9 +18,10 @@ Fitur no 3, yaitu Auto-logout setelah 5 menit idle (gunakan AppState + setTimeou
 - Proteksi Verifikasi Email
 
 ## Screenshots
-| Login | Register |
-|:---:|:---:|g
-| ![Login](screenshots/LoginScreen.png) | ![Register](screenshots/RegisterScreen.png) |
+| Login Screen | Register Screen |
+| :---: | :---: |
+| ![Login](./screenshots/LoginScreen.png) | 
+![Register](./screenshots/RegisterScreen.png) |
 
 | Forgot Password | Home Screen |
 |:---:|:---:|
